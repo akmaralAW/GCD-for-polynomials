@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/division.hpp
+polynome.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/polynome.hpp
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/main.cpp
+assert.h
+-
+cstdlib
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+division.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/division.hpp
+polynome.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/polynome.hpp
+rationnel.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/rationnel.hpp
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/polynome.hpp
+vector
+-
+rationnel.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/rationnel.hpp
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/polynomes/rationnel.hpp
+iostream
+-
+

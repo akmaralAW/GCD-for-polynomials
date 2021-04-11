@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libTP1.a  CMakeFiles/TP1.dir/division.cpp.o CMakeFiles/TP1.dir/polynome.cpp.o CMakeFiles/TP1.dir/rationnel.cpp.o
+/usr/bin/ranlib ../libTP1.a
